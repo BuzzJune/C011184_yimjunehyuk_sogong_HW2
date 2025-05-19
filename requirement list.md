@@ -1,6 +1,6 @@
 # C011184_yimjunehyuk_sogong_HW2
-# https://github.com/BuzzJune/C011184_yimjunehyuk_sogong_HW2.git
-# 채점내용 공개용 개인코드: 56477
+### https://github.com/BuzzJune/C011184_yimjunehyuk_sogong_HW2.git
+### 채점내용 공개용 개인코드: 56477
 
 | No. | Requirement | Use Case(s) |
 | --- | ----------- | ----------- |
