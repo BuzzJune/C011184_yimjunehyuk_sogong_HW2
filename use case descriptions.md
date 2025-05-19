@@ -1,5 +1,3 @@
-## 1. 회원 기능 - 임준혁(@BuzzJune)
-
 ### 📌 회원가입
 
 | Actor action | System response |
